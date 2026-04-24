@@ -24,6 +24,3 @@
 - Every PR needs at least one test
 - Read before editing — verify assumptions first
 - No console.log in production code
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-This repository is currently empty. Update this file once the project is initialized with its structure, build commands, and architecture.
